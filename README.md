@@ -5,3 +5,5 @@ Additionally, it includes a feature to select vertices near the axis center with
 As a bonus, it also addresses the limitations of Blender's built-in symmetry snap. This custom solution, while slightly slower, offers more accurate snapping by matching a selected vertex to its exact opposite based on a defined threshold, ensuring perfect symmetry in your models.
 
 You can access the add-on from the Tool menu in the right-side panel.
+
+You are free to modify and improve it.
